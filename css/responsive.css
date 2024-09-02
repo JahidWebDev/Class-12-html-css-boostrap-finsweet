@@ -1,0 +1,346 @@
+@media (min-width: 320px) and (max-width:575.98px){
+  #banner-part {
+    background: var(--Tint-blue, #1c1e53);
+    padding: 40px 0 40px 0;
+  }
+  #banner-part .banner-heading-right h1 {
+    font-size: 35px;
+    width: 467px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  #banner-part .banner-heading-right p {
+   
+    font-size: 15px;   
+      width: 319px; 
+   
+    margin: auto;
+    text-align: center;
+  }
+  #banner-part .banner-btn {
+    align-items: center;
+    text-align: center;
+    margin-left: 175px;
+    padding-bottom: 28px;
+  }
+  #banner-part .banner-btn .btn-right {
+    padding: 12px 20px;
+    border-radius: 41px;
+    background: #fcd980;
+    color: #090909;
+    margin-right: 16px;
+    transition: 2s;
+    font-size: 12px;
+  }
+
+  #banner-part .banner-btn samp {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 28px;
+    padding-top: 10px;
+  }
+  #banner-part .icon-arrow {
+    color: var(--White, #fff);
+    font-size: 16px;
+  }
+  #work-part {
+    background: var(--Grey, #f4f6fc);
+    width: 100%;
+    padding: 39px 0 34px 0;
+  }
+
+  #work-part .work-part-card h2 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 48px;
+    padding: 17px 0 3px 0;
+  }
+
+  #work-part .work-part-card h2 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 48px;
+    padding: 17px 0 3px 0;
+  }
+  #work-part .work-part-card p {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 28px;
+  }
+  #work-part .arrow-right-part h6 {
+    color: var(--Royal-Blue, #2405f2);
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 19px;
+  }
+  #work-part .work-part-card h2 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 48px;
+    padding: 17px 0 3px 0;
+  }
+
+  #work-part .work-part-left {
+    margin-left: 0px;
+    width: 320px;
+  }
+
+  #work-part .work-part-left-right {
+    margin-left: 107px;
+    width: 294px;
+  }
+
+  #work-part .work-part-card h5 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 285px;
+  }
+
+  #project {
+    padding: 38px 0;
+  }
+
+  #project .title-text h2 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 64px;
+  }
+
+  #project .workhub .workhub-content {
+    margin: 130px 35px 76px 48px;
+  }
+
+  #project .Unisaas-right .overlay {
+    width: auto;
+    height: 100%;
+    background: linear-gradient(
+      329deg,
+      #1c1e53 -10.96%,
+      rgba(28, 30, 83, 0.42) 103.96%
+    );
+    position: absolute;
+    top: 0;
+    left: 11px;
+    opacity: 0;
+    transition: 2s;
+  }
+
+  #Features .Features-title p {
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 0px;
+  }
+  #Features .Features-title h2 {
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 44px;
+    padding: 12px 0 47px 0;
+    width: 483px;
+    margin: 0 auto;
+  }
+
+  #Features {
+    padding: 58px 0 128px 0;
+    background: var(--Grey, #f4f6fc);
+  }
+
+  #clients-part .clients-wrapper h2 {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 39px;
+    font-weight: 600;
+    line-height: 43px;
+    padding: 2px 0 16px 0;
+    width: 331px;
+  }
+
+  #Features {
+    padding: 58px 0 13px 0;
+    background: var(--Grey, #f4f6fc);
+  }
+
+  #clients-part {
+    padding: 50px 0 77px 0;
+    background: var(--Grey, #f7f9ff);
+  }
+
+  #clients-part .clients-wrapper-right h2 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    width: auto;
+    padding-bottom: 48px;
+  }
+
+  #Frequently {
+    padding: 66px 0 79px;
+  }
+
+  #Frequently .accordion-body {
+    width: auto;
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    opacity: 0.87;
+    margin-left: 82px;
+    padding-bottom: 48px;
+  }
+
+  #Frequently .Frequently-title h2 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 43px;
+    width: 328px;
+    padding-bottom: 16px;
+  }
+
+  #Building .send-right-input {
+    background-color: #1c1e53;
+    padding: 96px 96px 48px 96px;
+    width: auto;
+  }
+  #Building .building-wrapper {
+    padding: 96px 96px 24px 96px;
+    width: auto;
+    background-image: url(..//images/woman-writing-on-paper-3228878.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+    object-fit: cover;
+  }
+
+  #Building .send-right-input .input-wrapper .sent-btn a {
+    color: #1b1c2b;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 92px;
+  }
+
+  #Building .send-right-input .input-wrapper .sent-btn {
+    width: 302px;
+    padding: 15px 6px;
+    border-radius: 41px;
+    background: #fcd980;
+  }
+
+  #Building .send-right-input .sent-url samp {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+  }
+
+  #Building .send-right-input .sent-url .ulr-arrow {
+    font-size: 19px;
+    color: #f7f9ff;
+    margin-left: 16px;
+  }
+  #Our-blog {
+    padding: 71px 0;
+  }
+  #footer-part .title-left p {
+    font-size: 14px;
+    width: 297px;
+  }
+
+  #footer-part .title-right h2 {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 37px;
+    font-weight: 600;
+    line-height: 64px;
+    width: 245px;
+  }
+
+  #footer-part .title-right p {
+    color: var(--Grey, #f4f6fc);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    opacity: 0.8;
+    padding: 14px 0 26px 0;
+    width: 257px;
+  }
+
+  #footer-part .title-right {
+    margin-top: 96px;
+    margin-left: 223px;
+  }
+
+  .footer-botom .footer-item ul li {
+    margin-left: 18px;
+    margin-right: 10px;
+  }
+
+  .footer-botom .footer-item ul li a {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: -6px;
+  }
+
+  .footer-botom {
+    padding: 9px 0;
+    background: var(--White, #fff);
+  }
+
+  #project .workhub {
+    width: 396px;
+    height: 98%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(
+      329deg,
+      #1c1e53 -10.96%,
+      rgba(28, 30, 83, 0.42) 103.96%
+    );
+    transition: 4s;
+    cursor: pointer;
+  }
+}

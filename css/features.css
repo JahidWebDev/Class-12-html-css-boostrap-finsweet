@@ -1,0 +1,151 @@
+/*------------------- client-part start -----------------*/
+#client-part .client-reviews-text {
+  padding: 41px 0;
+}
+#client-part .client-reviews-text h6 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  opacity: 0.87;
+}
+#client-part .client-reviews-text h1 {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  padding: 16px 0;
+}
+#client-part .client-reviews-text p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.6;
+  width: 622px;
+}
+#client-part .images img {
+  width: 575px;
+  object-fit: cover;
+  margin-left: 40px;
+}
+/*------------------- client-part end -----------------*/
+/*------------------- Revisions-part end -----------------*/
+#Revisions {
+  padding: 128px 0;
+  background: var(--Grey, #f4f6fc);
+  width: 100%;
+  margin: 115px 0;
+}
+#Revisions .client-reviews-text {
+  margin: 33px 0 69px 0;
+  margin-left: 39px;
+}
+#Revisions .client-reviews-text h6 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  opacity: 0.87;
+}
+#Revisions .client-reviews-text h1 {
+  width: 624px;
+  color: #232536;
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  padding: 16px 0;
+}
+#Revisions .client-reviews-text p {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 622px;
+  opacity: 0.6;
+}
+/*------------------- Revisions-part end -----------------*/
+/*------------------- Working-part end -----------------*/
+#Working .client-reviews-text {
+  padding: 41px 0;
+}
+#Working .client-reviews-text h6 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  opacity: 0.87;
+}
+#Working .client-reviews-text h1 {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  padding: 16px 0;
+}
+#Working .client-reviews-text p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.6;
+  width: 622px;
+}
+#Working .images {
+  width: 575px;
+  object-fit: cover;
+  margin-left: 40px;
+}
+/*------------------- Working-part end -----------------*/
+/*------------------- Guranteed -part end -----------------*/
+#Guranteed {
+  padding: 128px 0;
+  background: rgba(252, 217, 128, 0.1);
+  width: 100%;
+  margin: 115px 0;
+}
+#Guranteed .client-reviews-text {
+  margin: 33px 0 69px 0;
+  margin-left: 39px;
+}
+#Guranteed .client-reviews-text h6 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  opacity: 0.87;
+}
+#Guranteed .client-reviews-text h1 {
+  width: 624px;
+  color: #232536;
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  padding: 16px 0;
+}
+#Guranteed .client-reviews-text p {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 622px;
+  opacity: 0.6;
+}
+/*------------------- Guranteed -part end -----------------*/
+

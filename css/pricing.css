@@ -1,0 +1,253 @@
+#pricing {
+  padding: 128px 0 64px 0;
+}
+#pricing .text-title h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  text-align: center;
+}
+#pricing .text-title p {
+  color: var(--Dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  width: 562px;
+  margin: 0 auto;
+}
+#pricing .pricing-wrapper {
+  padding: 64px 77px 61px 48px;
+  border-radius: 12px;
+  background: var(--Grey, #f4f6fc);
+  width: 406px;
+  color: #000000;
+  color: var(--Royal-Blue, #2405f2);
+  color: var(--Dark-blue, #282938);
+  transition: 2s;
+  /* color: #97DAAD; */
+  margin-top: 64px;
+ 
+}
+
+
+
+#pricing .pricing-wrapper-1{
+  padding: 64px 77px 61px 48px;
+  border-radius: 12px;
+  background: #1C1E53;
+  width: 406px;
+  color: #000000;
+  color: var(--Royal-Blue, #2405f2);
+  color: var(--Dark-blue, #282938);
+  transition: 2s;
+  color: #fdfdfd;
+  margin-top: 64px;
+}
+#pricing  .pricing-wrapper:hover{
+  border-radius: 12px;
+  background: #1c1e53;
+  color: white;
+  /* color: var(--Royal-Blue, #2405F2); */
+}
+
+
+#pricing  .pricing-wrapper:hover .per-disign h4{
+  color: #fcd980;
+}
+#pricing  .pricing-wrapper:hover span{
+  color: #ffffff;
+}
+
+#pricing  .pricing-wrapper:hover .get-btn .btn-cl{
+  color: #282938;
+  background-color: #fcd980;
+}
+
+#pricing .pricing-wrapper:hover::after {
+  width: 100px;
+  border-radius: 1151px;
+  background: rgba(255, 255, 255, 0.06);
+  }
+#pricing .pricing-wrapper .per-disign {
+  align-items: center;
+}
+#pricing .pricing-wrapper-1 .per-disign {
+  align-items: center;
+}
+#pricing .pricing-wrapper .per-disign h2 {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  margin-right: 8px;
+}
+#pricing .pricing-wrapper-1 .per-disign h2 {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  margin-right: 8px;
+}
+#pricing .pricing-wrapper .per-disign  h4{
+  color: var(--Yellow, #2405f2);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+#pricing .pricing-wrapper-1 .per-disign .clr-cha{
+  color: var(--Yellow, #FCD980);
+
+/* Body 1 */
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}  
+
+#pricing .pricing-wrapper h3 {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  padding-top: 34px;
+}
+#pricing .pricing-wrapper-1 h3 {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  padding-top: 34px;
+}
+#pricing .pricing-wrapper p {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  padding: 8px 0 80px 0;
+}
+#pricing .pricing-wrapper-1 p {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  padding: 8px 0 80px 0;
+}
+#pricing .pricing-wrapper .link {
+  display: flex;
+  flex-direction: column;
+  column-gap: 22px;
+}
+#pricing .pricing-wrapper .link a {
+  color: #000000;
+  font-size: 25px;
+  z-index: 22;
+}
+#pricing .pricing-wrapper-1 .link a {
+  color: #ffffff;
+  font-size: 25px;
+  z-index: 22;
+}
+/* #pricing .pricing-wrapper .link a:hover{
+    color: var(--Dark-blue, #282938);
+    cursor: pointer;
+} */
+#pricing .pricing-wrapper .link span {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px;
+}
+#pricing .pricing-wrapper-1 .link span {
+  /* color: var(--Dark-blue, #282938); */
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px;
+  color: #fefefe;
+  
+
+}
+#pricing .pricing-wrappe{
+  flex-direction: column;
+}
+#pricing .pricing-wrapper .link-flex img {
+	margin-top: -4px;
+  width: 20px;
+}
+#pricing .pricing-wrapper-1 .link-flex img {
+	margin-top: -4px;
+  width: 20px;
+}
+#pricing .pricing-wrapper .link-flex{
+  display: flex;
+ flex-direction: column;
+}
+#pricing .pricing-wrapper-1 .link-flex{
+  display: flex;
+ flex-direction: column;
+}
+
+
+
+#pricing .pricing-wrapper .link img{
+  width: 20px;
+}
+
+
+#pricing .pricing-wrapper .link span:hover {
+  color: #000000;
+}
+#pricing .pricing-wrapper .btn-cl {
+  width: 254px;
+  padding: 15px 51px;
+  border-radius: 41px;
+  background: var(--Dark-blue, #282938);
+  margin-top: 79px;
+  padding-left: 75px;
+  transition: 3s;
+  color: #fdfdfd;
+  font-family: Manrope;
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 20px;
+}
+#pricing .pricing-wrapper-1 .btn-cl {
+	width: 254px;
+	padding: 15px 51px;
+	border-radius: 41px;
+	background: var(--Yellow, #fcd980);
+	margin-top: 79px;
+	padding-left: 75px;
+	transition: 3s;
+	color: #000;
+	font-family: Manrope;
+	font-size: 18px;
+	font-weight: 600;
+	margin-left: 20px;
+}
+#pricing .pricing-wrapper .btn-cl:hover {
+  background: var(--Yellow, #fcd980);
+  cursor: pointer;
+  color: #000000;
+}
+#pricing .pricing-wrapper-1 .btn-cl:hover {
+  background: var(--Yellow, #fcd980);
+  cursor: pointer;
+  color: #000000;
+}

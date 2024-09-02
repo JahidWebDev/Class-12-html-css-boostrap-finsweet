@@ -1,0 +1,358 @@
+/* ---------------- about-part start-------------- */
+#about {
+  padding: 128px 0;
+}
+#about .about-title {
+  padding: 24px 0 9px 0;
+}
+#about .about-title h6 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+}
+#about .about-title h1 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 74px;
+  padding: 8px 0 31px 0;
+  width: 595px;
+}
+#about .about-title p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 484px;
+  opacity: 0.7;
+}
+#about .about-img {
+  margin-left: 65px;
+}
+#about .about-img img {
+  width: 100%;
+  object-fit: cover;
+}
+/* ---------------- about-part end-------------- */
+/* ---------------- improvement-part start-------------- */
+#improvement .improvement-wrapper {
+  padding: 112px 109px 80px 80px;
+  width: 100%;
+  background: #f4f5f5;
+}
+#improvement .improvement-wrapper h6 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+#improvement .improvement-wrapper h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  width: 515px;
+  padding: 4px 0 16px 0;
+}
+#improvement .improvement-wrapper p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  width: 515px;
+  opacity: 0.7;
+}
+#improvement .right-wrapper {
+  margin-left: 37px;
+}
+#improvement .right-wrapper h3 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  width: 515px;
+  padding-top: 37px;
+}
+#improvement .image-bootom img {
+  width: 100%;
+  object-fit: cover;
+}
+/* ---------------- improvement-part end-------------- */
+/* ---------------- process-part start-------------- */
+#process {
+  padding: 128px 0;
+}
+#process .process-part p {
+  text-align: center;
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  padding-bottom: 48px;
+}
+#process .circle-part {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: blue;
+}
+#process .card-wrapper {
+  align-items: center;
+}
+#process .dot-dot {
+  border: none;
+  border-top: 3px dotted #2405f2;
+  color: #fff;
+  background-color: #fff;
+  height: 3px;
+  width: 224px;
+  margin-left: 24px;
+}
+#process .text-tilte-pro h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  padding: 23px 0 8px 0;
+}
+#process .text-tilte-pro p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 272px;
+  opacity: 0.7;
+}
+/* ---------------- process-part end-------------- */
+/* ---------------- Innovate-part start-------------- */
+#Innovate {
+  padding: 128px 0;
+  background-color: #eef4fa;
+}
+#Innovate .innovate-right {
+  padding: 54px 0;
+}
+#Innovate .innovate-right h6 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+#Innovate .innovate-right h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  padding: 16px 0;
+}
+#Innovate .innovate-right p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 623px;
+  opacity: 0.7;
+}
+#Innovate .images-left {
+  width: 100%;
+  object-fit: cover;
+  margin-left: 90px;
+}
+#Innovate .imge-part {
+  padding-top: 70px;
+}
+#Innovate .innovate-right-1 {
+  padding-top: 115px;
+}
+#Innovate .innovate-right-1 h6 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+#Innovate .innovate-right-1 h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  padding: 16px 0;
+}
+#Innovate .innovate-right-1 p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 623px;
+  opacity: 0.7;
+}
+/* ---------------- Innovate-part end-------------- */
+/* ---------------- benefits-part start-------------- */
+#benefits {
+  padding: 128px 0;
+}
+#benefits .benefits-part p {
+  width: 630px;
+  color: var(--Dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  margin: 0 auto;
+}
+#benefits .benefits-card {
+  padding: 50px 32px 48px 48px;
+  background: var(--Grey, #f4f6fc);
+  width: 405px;
+  margin-top: 48px;
+}
+#benefits .benefits-card h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  padding: 26px 0 12px 0;
+}
+#benefits .benefits-card p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 324.079px;
+}
+#benefits .logo-wrapper {
+  padding-top: 48px;
+  align-items: center;
+}
+#benefits .logo-wrapper .cont h3 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+}
+#benefits .logo-wrapper .cont p {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+#benefits .logo-wrapper .logo-count-img {
+  margin-left: 89px;
+}
+#benefits .logo-wrapper .logo-count-img img {
+  width: 161.815px;
+  height: 32px;
+  margin-left: 16px;
+  margin-right: 17px;
+}
+/* ---------------- benefits-part end-------------- */
+/* ---------------- meet-part-part start-------------- */
+#meet-part {
+  padding: 128px 0;
+  background: var(--Grey, #f4f6fc);
+}
+#meet-part .meet-title h2 {
+  color: var(--Dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  margin-bottom: 48px;
+}
+#meet-part .team-card{
+  padding: 48px 64px 32px 64px;
+  background: #fff;
+  width: 296px;
+  text-align: center;
+  /* position: relative; */
+}
+
+#meet-part .img-hover{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#meet-part .team-card .overlay{
+  background: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: 2s;
+}
+
+
+#meet-part  .team-card  .overlay:hover{
+  opacity: 1;
+  cursor: pointer;
+}
+
+
+#meet-part  .team-card  .overlay .icon-2{
+  margin-top: 127px;
+}
+
+
+#meet-part  .team-card  .overlay .icon-2 a{
+  color: #eef4fa;
+}
+
+
+#meet-part .team-card h2 {
+  color: var(--b, #1d2130);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  padding-top: 30px;
+}
+#meet-part .team-card p {
+  color: var(--b, #1d2130);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+}
+/*--------- meet-part-part end-------------- */
+
+
